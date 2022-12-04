@@ -1,0 +1,2 @@
+What does "self-contained" mean? For example, are github libraries allowed?
+

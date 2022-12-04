@@ -1,0 +1,44 @@
+TODO: 
+
+1. Include in the Discussion that we did try making a classification model for all 5 positions, and that this didn't produce a high accuracy. 
+
+2. Further research should include more data and other ways handling the small forward position.
+
+3. (We Probably) will contribute to the literature on this subject by showing that, at least for distinguishing between SG, PG, and C, PF, the number of 3 point attempts is a more useful metric than height or weight.
+
+
+
+QUESTIONS: 
+
+1. What are better ways to do non-visual exploratory data analysis?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUESTIONS:
+
+1. Is it okay to use information from the exploratory data analysis to shape our question? I.e. we realize that 

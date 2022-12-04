@@ -1,0 +1,23 @@
+QUESTIONS: 
+
+1. Should we be outputting the data frame at every step through our Data Wrangling? This seems a bit tedious... (for us and the reader...)
+
+2. How carefully should we be explaining our code cells? More or less than we are right now?
+
+3. Should we include forward selection and comparison of forward selection vs. initial parameters, or should we just mention it and include the results from doing it.
+
+4. Is it bad practice to overwrite variables, e.g. when updating a table (good example: "season data".)
+
+5. 
+
+
+NOTES:
+
+1. Maybe for end discussion: we can talk about our assumptions?
+    - that positions are unrelated to experience or age - seems reasonable at the professional level (but in recreational games, point guard is kind of the senior position.) 
+    
+DISCUSSION:
+
+1. How important is each predictor?
+
+2. We later discovered additional data that estimates how much time a player spends in each position. Further exploration could involve building a regression model to predict the percent of time a player is estimated to have played in their stated position for a given year.
